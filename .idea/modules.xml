@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fumida_PDF.iml" filepath="$PROJECT_DIR$/Fumida_PDF.iml" group="Fumida_PDF" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Fumida_PDF/app" />
+    </modules>
+  </component>
+</project>
